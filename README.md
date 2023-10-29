@@ -2,7 +2,7 @@
 
 ### About Me
 - 🔭 I’m currently working on a k8s & AWS based Machine Learning Platform at BMW (see https://www.youtube.com/watch?v=bNrBJwiLBWU&t=1s for more).
-- 🌱 I’m currently learning Networking and Security.
+- 🌱 I’m currently learning Networking Layers, Protocols and Security.
 
 ### My tech contributions and stack
 ![Magdalena's GitHub stats](https://github-readme-stats.vercel.app/api?username=magdalenakuhn17&show_icons=true&theme=transparent)
